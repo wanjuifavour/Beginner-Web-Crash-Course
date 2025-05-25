@@ -1,0 +1,13 @@
+# .github/workflows/assignments.yml
+name: Assignment Checks
+on: [pull_request]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Validate HTML
+      uses: validator/validator@v1
+      with:
+        url: ./index.html
