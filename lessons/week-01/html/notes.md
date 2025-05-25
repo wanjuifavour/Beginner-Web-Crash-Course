@@ -150,7 +150,7 @@ Let's examine the HTML page we built together (example.html):
 
 #### Headings
 ```html
-<h1>Allan Kiuna.</h1>
+<h1>Student Mwanafunzi.</h1>
 <h3>This is my About page.</h3>
 ```
 - **`<h1>`**: Main title (only one per page)
