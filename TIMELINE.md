@@ -161,7 +161,7 @@
 - **Week 9**: Python-backed alternative implementation
 - **Week 12**: Production-ready deployed application
 
-[➡️ Proceed to Assignments](https://github.com/yourusername/reponame/assignments) | 
-[❓ Get Help](https://github.com/yourusername/reponame/discussions)
+[➡️ Proceed to Assignments](https://github.com/wanjuifavour/Beginner-Web-Crash-Course.git/assignments) | 
+[❓ Get Help](https://github.com/wanjuifavour/Beginner-Web-Crash-Course.git/discussions)
 
 > **Note**: This timeline assumes 4-6 hours of weekly practice outside lessons. Adjust pace as needed!
